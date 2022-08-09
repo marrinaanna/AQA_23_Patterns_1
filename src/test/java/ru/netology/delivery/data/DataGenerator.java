@@ -1,7 +1,7 @@
 package ru.netology.delivery.data;
 
 import com.github.javafaker.Faker;
-import com.github.javafaker.service.FakeValuesService;
+
 
 import lombok.Value;
 import lombok.val;
